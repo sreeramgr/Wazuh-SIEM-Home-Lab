@@ -106,4 +106,4 @@ This project helped build hands-on skills in:
 - Document detection use cases in more detail
 
 ## Author
-Sreeram
+Sreeram Ramesh
