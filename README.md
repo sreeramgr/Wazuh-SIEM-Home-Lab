@@ -99,6 +99,10 @@ This project helped build hands-on skills in:
 - VirtualBox networking
 - Dashboard creation and alert analysis
 
+## Additional Documentation
+- [Setup Notes](docs/setup-notes.md)
+- [Troubleshooting Notes](docs/troubleshooting.md)
+
 ## Future Improvements
 - Add a Kali Linux attacker VM for attack simulation
 - Expand dashboard visualizations
