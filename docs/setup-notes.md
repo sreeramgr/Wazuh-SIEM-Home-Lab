@@ -31,3 +31,6 @@ Check service status:
 sudo systemctl status wazuh-manager
 sudo systemctl status wazuh-indexer
 sudo systemctl status wazuh-dashboard
+
+## Note
+These setup notes summarize the main steps used in the lab. Detailed debugging and issue resolution are documented separately in `docs/troubleshooting.md`.
